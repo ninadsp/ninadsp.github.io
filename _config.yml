@@ -15,7 +15,6 @@
 # in the templates via {{ site.myvariable }}.
 title: Ninad's Blog
 description: Just another weblog
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ninad.pundaliks.in" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ni_nad
 github_username:  ninadsp
@@ -26,6 +25,7 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 plugins:
   - jekyll-feed
 
+permalink:	/:year/:month/:title
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
