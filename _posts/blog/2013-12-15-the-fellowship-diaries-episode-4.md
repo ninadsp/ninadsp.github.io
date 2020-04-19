@@ -1,5 +1,5 @@
 ---
-title: 'The Fellowship Diaries &#8211; Episode 4'
+title: 'The Fellowship Diaries - Episode 4'
 author: Ninad
 layout: post
 permalink: /blog/2013/12/the-fellowship-diaries-episode-4/

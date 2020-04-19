@@ -1,5 +1,5 @@
 ---
-title: 'Potential Barcamp Talks &#8211; BCB 2014'
+title: 'Potential Barcamp Talks - BCB 2014'
 author: Ninad
 layout: post
 permalink: /blog/2013/11/potential-barcamp-talks-bcb-2014/
