@@ -1,5 +1,5 @@
 ---
-title: 'The Fellowship Diaries &#8211; Episode 0'
+title: 'The Fellowship Diaries - Episode 0'
 author: Ninad
 layout: post
 permalink: /blog/2013/07/the-fellowship-diaries-episode-0/
@@ -19,7 +19,7 @@ tags:
 
 Email overload! Don't we all hate it? But, every once in a while, an email comes along, which proves us wrong. A little more than a year ago, one such mail landed in my office mail box. It was about an online lecture detailing how [HANA](http://en.wikipedia.org/wiki/SAP_HANA "SAP HANA on Wikipedia") works (to be specific, the prototype, SansoucciDB), by none other than Hasso Plattner, one of the co-founders of the company. Being the enthusiastic kid who laps up every oppurtunity to learn, I signed up for it. No one knew that this would be the beginning of a very interesting journey.
 
-My college, [course](https://openhpi.de/course/inmemorydatabases "BITS Pilani" href="http://www.bits-pilani.ac.in" target="_blank">BITS Pilani</a>, has been conducting online courses for a few years. I had also heard of similar attempts by the IITs, and had even downloaded the (very popular) [MIT-OCW](http://ocw.mit.edu/ "MIT Open Course Ware") content for a course. But, I had never actually attended a complete course, so I was a little skeptical as to whether I would complete it. A few of my close friends from office also signed up for the <a title="IMDB Course on OpenHPI"), so there was some hope. The course started, and we were excited to hear Hasso Plattner speak.
+My college, [BITS Pilani](http://www.bits-pilani.ac.in" "BITS Pilani"), has been conducting online courses for a few years. I had also heard of similar attempts by the IITs, and had even downloaded the (very popular) [MIT-OCW](http://ocw.mit.edu/ "MIT Open Course Ware") content for a course. But, I had never actually attended a complete course, so I was a little skeptical as to whether I would complete it. A few of my close friends from office also signed up for the [course](https://openhpi.de/course/inmemorydatabases "IMDB Course on OpenHPI"), so there was some hope. The course started, and we were excited to hear Hasso Plattner speak.
 
 Having intern-ed at a place where SAP's ERP was the primary transaction software, and the primary analysis software was provided by a different company, I had some idea of the amount of byte-pushing that happens in most corporate networks today. Also, the place had a lot of custom development on top of SAP as it was a forging industry. Hence, when Hasso Plattner spoke about the unification of OLTP and OLAP as well as the simplification of application development, I was hooked.
 

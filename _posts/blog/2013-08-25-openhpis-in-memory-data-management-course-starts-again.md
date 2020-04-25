@@ -7,4 +7,4 @@ categories:
   - Blog
   - Uncategorized
 ---
-Just so you know, the openHPI course that explains how In-Memory databases work is starting again tomorrow (26 August 2013). Further details are available at: [https://openhpi.de/course/imdb2013]
+Just so you know, the openHPI course that explains how In-Memory databases work is starting again tomorrow (26 August 2013). Further details are available at: [https://openhpi.de/course/imdb2013](https://openhpi.de/course/imdb2013)

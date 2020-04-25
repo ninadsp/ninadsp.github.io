@@ -1,5 +1,5 @@
 ---
-title: 'You are in a brand new BMTC Volvo if&#8230;'
+title: 'You are in a brand new BMTC Volvo if...'
 author: Ninad
 layout: post
 permalink: /blog/2013/05/you-are-in-a-brand-new-bmtc-volvo-if/

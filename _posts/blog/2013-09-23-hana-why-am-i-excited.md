@@ -1,5 +1,5 @@
 ---
-title: 'HANA &#8211; Why am I Excited'
+title: 'HANA - Why am I Excited'
 author: Ninad
 layout: post
 permalink: /blog/2013/09/hana-why-am-i-excited/

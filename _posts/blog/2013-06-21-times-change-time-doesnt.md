@@ -12,9 +12,7 @@ tags:
   - Musings
   - photos
 ---
-[<img src="http://l4.yimg.com/sm/5343/9096621407_6009338bd1.jpg" width="500" height="382" alt="Times change, time doesn't" />][1]
-
-&nbsp;
+[<img src="https://live.staticflickr.com/5343/9096621407_6e15cc3913_5k.jpg" alt="Times change, time doesn't" />][1]
 
 Ok. That's a pretty lame title, but I wanted to dedicate this click and post to the watch that has stayed with me through the past few years.
 

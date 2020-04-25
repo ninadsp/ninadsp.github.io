@@ -17,25 +17,25 @@ Twitter trends have now become the de-facto place for brands to spam everyone's 
 
 Seriously interested:
 
-  * On how to make this week count &#8211; [@hiway][3]
-  * How to attend Barcamp Talks &#8211; [@mahafreed][4]
-  * Railfanning, the awesome side of Indian Railways &#8211; [@whizkidd][5]
-  * How to build a SaaS that collects data through normal user behaviour &#8211; [@utekkare][6]
-  * How to live off a bike &#8211; [@mehulved][7] &#8211; Also applies for [@hiway][8], for the fuel powered variant :smiley:
-  * Google Chrome as an IDE &#8211; [@icecubed][9]
-  * How to replace myself with a script &#8211; [@oddtazz][10]
-  * How to attend Yahoo Open Hack Days &#8211; [@dkris][11]
-  * Car mechanics 101 &#8211; [@intelshwets][12]
-  * Cats and the Internetz &#8211; [@hiway @shadez and @anugadre][13]
-  * How to do smoke photography &#8211; [@amanmanglik][14]
+  * On how to make this week count - [@hiway][3]
+  * How to attend Barcamp Talks - [@mahafreed][4]
+  * Railfanning, the awesome side of Indian Railways - [@whizkidd][5]
+  * How to build a SaaS that collects data through normal user behaviour - [@utekkare][6]
+  * How to live off a bike - [@mehulved][7] - Also applies for [@hiway][8], for the fuel powered variant :smiley:
+  * Google Chrome as an IDE - [@icecubed][9]
+  * How to replace myself with a script - [@oddtazz][10]
+  * How to attend Yahoo Open Hack Days - [@dkris][11]
+  * Car mechanics 101 - [@intelshwets][12]
+  * Cats and the Internetz - [@hiway @shadez and @anugadre][13]
+  * How to do smoke photography - [@amanmanglik][14]
 
 Fun stuff:
 
-  * How to stay awake for 3 days &#8211; [@Quiz_Master][15]
-  * Twitter's most eligible bachelor &#8211; [@srini091][16]
-  * Confidence graph while proposing a girl &#8211; [@epandu and @ceetee][17]
-  * How to promise and never give a session at Barcamps &#8211; [@daaku][18] &#8211; [@Sengupta][19] is also credited with a similar idea
-  * How to not prepare for a Barcamp session &#8211; [me][20]
+  * How to stay awake for 3 days - [@Quiz_Master][15]
+  * Twitter's most eligible bachelor - [@srini091][16]
+  * Confidence graph while proposing a girl - [@epandu and @ceetee][17]
+  * How to promise and never give a session at Barcamps - [@daaku][18] - [@Sengupta][19] is also credited with a similar idea
+  * How to not prepare for a Barcamp session - [me][20]
 
 So, will I get to see any of these sessions at Barcamp Bangalore on 14th September?
 

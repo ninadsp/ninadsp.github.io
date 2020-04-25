@@ -16,4 +16,4 @@ I've made this mistake so many times, that I have to note it down somewhere and 
 
 **Solution:** Clone the git repository directly to the plugin folder goddamnit!
 
-Reference: [http://stackoverflow.com/questions/3221771/how-do-you-get-php-symlinks-and-file-to-work-together-nicely]
+Reference: [StackOverflow Answer](http://stackoverflow.com/questions/3221771/how-do-you-get-php-symlinks-and-file-to-work-together-nicely)
