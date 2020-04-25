@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: page
 ---
 
 # Ninad Pundalik
@@ -18,7 +18,7 @@ I'm a Site Reliability Engineer with [Slack](http://slack.com), working in their
 
 {% for post in site.posts %}
 
-####[{{ post.title }}]({{ post.url }})
+#### [{{ post.title }}]({{ post.url }})
 
 _{{ post.date | date: "%B %e, %Y" }}_
 
