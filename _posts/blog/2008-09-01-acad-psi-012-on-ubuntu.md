@@ -1,5 +1,5 @@
 ---
-title: 'ACAD &#8211; Psi 0.12 on Ubuntu'
+title: 'ACAD - Psi 0.12 on Ubuntu'
 author: Ninad
 layout: post
 permalink: /blog/2008/09/acad-psi-012-on-ubuntu/

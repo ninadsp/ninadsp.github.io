@@ -1,5 +1,5 @@
 ---
-title: 'ACAD &#8211; How healthy is my computer?'
+title: 'ACAD - How healthy is my computer?'
 author: Ninad
 layout: post
 permalink: /blog/2008/08/acad-how-healthy-is-my-computer/

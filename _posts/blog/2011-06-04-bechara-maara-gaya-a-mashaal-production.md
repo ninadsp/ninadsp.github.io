@@ -1,5 +1,5 @@
 ---
-title: 'Bechara Maara Gaya &#8211; A Mashaal Production'
+title: 'Bechara Maara Gaya - A Mashaal Production'
 author: Ninad
 layout: post
 permalink: /blog/2011/06/bechara-maara-gaya-a-mashaal-production/

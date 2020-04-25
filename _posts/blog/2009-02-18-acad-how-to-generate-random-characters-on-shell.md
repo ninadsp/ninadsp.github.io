@@ -1,5 +1,5 @@
 ---
-title: 'ACAD &#8211; How to generate random characters on Shell'
+title: 'ACAD - How to generate random characters on Shell'
 author: Ninad
 layout: post
 permalink: /blog/2009/02/acad-how-to-generate-random-characters-on-shell/

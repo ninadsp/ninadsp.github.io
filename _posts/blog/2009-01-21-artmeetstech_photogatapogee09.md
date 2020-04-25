@@ -1,5 +1,5 @@
 ---
-title: 'Art Meets Technology &#8211; Photography Club at APOGEE 2009'
+title: 'Art Meets Technology - Photography Club at APOGEE 2009'
 author: Ninad
 layout: post
 permalink: /blog/2009/01/artmeetstech_photogatapogee09/

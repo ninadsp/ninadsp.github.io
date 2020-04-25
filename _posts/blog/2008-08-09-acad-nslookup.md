@@ -1,5 +1,5 @@
 ---
-title: 'ACAD &#8211; nslookup'
+title: 'ACAD - nslookup'
 author: Ninad
 layout: post
 permalink: /blog/2008/08/acad-nslookup/

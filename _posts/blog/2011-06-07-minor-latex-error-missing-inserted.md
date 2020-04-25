@@ -1,5 +1,5 @@
 ---
-title: 'Minor LaTeX error &#8211; Missing $ inserted'
+title: 'Minor LaTeX error - Missing $ inserted'
 author: Ninad
 layout: post
 permalink: /blog/2011/06/minor-latex-error-missing-inserted/

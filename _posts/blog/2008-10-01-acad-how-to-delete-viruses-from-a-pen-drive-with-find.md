@@ -1,5 +1,5 @@
 ---
-title: 'ACAD &#8211; How to delete viruses from a pen drive with find'
+title: 'ACAD - How to delete viruses from a pen drive with find'
 author: Ninad
 layout: post
 permalink: /blog/2008/10/acad-how-to-delete-viruses-from-a-pen-drive-with-find/

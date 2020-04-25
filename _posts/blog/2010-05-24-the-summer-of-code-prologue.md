@@ -1,5 +1,5 @@
 ---
-title: 'The Summer of Code &#8211; Prologue'
+title: 'The Summer of Code - Prologue'
 author: Ninad
 layout: post
 permalink: /blog/2010/05/the-summer-of-code-prologue/

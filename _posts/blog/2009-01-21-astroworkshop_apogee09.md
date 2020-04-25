@@ -1,5 +1,5 @@
 ---
-title: 'The Astronomy Workshop &#8211; APOGEE 2009'
+title: 'The Astronomy Workshop - APOGEE 2009'
 author: Ninad
 layout: post
 permalink: /blog/2009/01/astroworkshop_apogee09/

@@ -35,7 +35,7 @@ As the interface will be implemented using JQuery and AJAX, the user will be pro
   * **May 1-16:** College Comprehensive Exams.
   * **First week (May 23-30)**:Study some more WordPress code, paying specific attention to image handling functions from wp-includes/media.php, wp-admin/media-upload.php and Organizer plugin. Also, read up on making a plug in. Decide whether to use ImageMagick or to stay with GD, in consultation with the Mentors.
   * **Second & Third week (May 31- June 13)**: Figure out SVN and try out a few 'hello world' things first with it. Understand the PHP API of ImageMagick and relate that to the commands or Understand GD depending on the previous week's decision. Code #2
-  * **Fourth week (June 14-20)**: Code #4 &#8211; the image framing and sketch-ify functions.
+  * **Fourth week (June 14-20)**: Code #4 - the image framing and sketch-ify functions.
   * **Fifth & Sixth week (June 21- July 4)**: Code #1
   * **Seventh & Eighth week (July 5-18)**: Review, test and debug work done till now. Do various tests on the File Upload, and also on the Image Processing across platforms. Document the work done. Also, time for GSoC midterm evaluation.
   * **Ninth & Tenth week (July 19-August 1)******: Code #3

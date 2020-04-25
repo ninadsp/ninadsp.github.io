@@ -11,7 +11,7 @@ tags:
 ---
 *Disclaimer: This is a diary posting. Anyone not interested may please stop reading.*
 
-October 5 &#8211; 12, 2008.
+October 5 - 12, 2008.
 
 It's been another hectic week in my BITSian life. The week began with the '[World Space Week][1]' celebrations by the **Astronomy Club, BITS Pilani**. The events in the Week were lectures by **Prof. Kaushar Vaidya** (Physics Group), **Kshitij Garg** (a Club member) and **Prof. Jayant Murthy** (Indian Institute of Astrophysics). The week also included **Night Sky Watching Sessions** held atop the FD-III Terrace, in the Astro Room, for the BITSian Faculty, Students, and an exclusive session for the students studying at the schools of the NSS (Pilani Chapter) and Nirmaan. It was great fun to see the *Moon, Jupiter, Andromeda Galaxy, Vega, the Eta Lyra binary stars, and the Pleaides star cluster* through the Club's telescopes.
 

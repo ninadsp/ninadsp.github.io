@@ -1,5 +1,5 @@
 ---
-title: 'ACAD &#8211; ImageMagick again!'
+title: 'ACAD - ImageMagick again!'
 author: Ninad
 layout: post
 permalink: /blog/2008/12/acad-imagemagick-again/

@@ -1,5 +1,5 @@
 ---
-title: 'Paxos Consensus &#8211; Notes'
+title: 'Paxos Consensus - Notes'
 author: Ninad
 layout: post
 permalink: /blog/2013/07/paxos-consensus-notes/

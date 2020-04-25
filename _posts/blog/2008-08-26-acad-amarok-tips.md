@@ -1,5 +1,5 @@
 ---
-title: 'ACAD &#8211; Amarok tips'
+title: 'ACAD - Amarok tips'
 author: Ninad
 layout: post
 permalink: /blog/2008/08/acad-amarok-tips/

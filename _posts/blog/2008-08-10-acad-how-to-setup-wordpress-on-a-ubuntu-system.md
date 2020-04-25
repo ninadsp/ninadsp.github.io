@@ -1,5 +1,5 @@
 ---
-title: 'ACAD &#8211; How to setup WordPress on a Ubuntu system'
+title: 'ACAD - How to setup WordPress on a Ubuntu system'
 author: Ninad
 layout: post
 permalink: /blog/2008/08/acad-how-to-setup-wordpress-on-a-ubuntu-system/

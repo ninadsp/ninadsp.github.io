@@ -13,9 +13,7 @@ tags:
   - startup
   - work
 ---
-<address>
-  <em>This week, I complete 2 years at my present company (let us call it A). Long term readers of the blog know that I work at a corporate behemoth, one of the oldest in the software industry. I would like to take this opportunity to note down what made me choose working here, instead of the startup (let us call it B) I was an intern at. I will re-iterate a few points from a [previous post](http://ninad.pundaliks.in/blog/2013/07/the-fellowship-diaries-episode-0/ "The Fellowship Diaries – Episode 0"). This post needs time to read, so come back later if you are in a hurry.</em>
-</address>
+This week, I complete 2 years at my present company (let us call it A). Long term readers of the blog know that I work at a corporate behemoth, one of the oldest in the software industry. I would like to take this opportunity to note down what made me choose working here, instead of the startup (let us call it B) I was an intern at. I will re-iterate a few points from a [previous post](http://ninad.pundaliks.in/blog/2013/07/the-fellowship-diaries-episode-0/ "The Fellowship Diaries – Episode 0"). This post needs time to read, so come back later if you are in a hurry.
 
 I worked at a startup. I loved it! I learnt a lot, met a lot of very talented and driven people and got inspired. But, I chose not to accept the job offer that B gave me at the end of the internship. Quite a few people considered me crazy, and some even lamented about the fact that I would waste my talent and energy at A. I knew that some of them would not understand the reasons behind this decision, while I explained part of the reasons to some others.
 

@@ -1,5 +1,5 @@
 ---
-title: 'LaTeX &#8211; Typeset a URL without linking to it'
+title: 'LaTeX - Typeset a URL without linking to it'
 author: Ninad
 layout: post
 permalink: /blog/2011/06/latex-typeset-a-url-without-linking-to-it/

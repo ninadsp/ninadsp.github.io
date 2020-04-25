@@ -1,5 +1,5 @@
 ---
-title: 'ACAD &#8211; locate files on your Linux system'
+title: 'ACAD - locate files on your Linux system'
 author: Ninad
 layout: post
 permalink: /blog/2008/08/acad-locate-files-on-your-linux-system/

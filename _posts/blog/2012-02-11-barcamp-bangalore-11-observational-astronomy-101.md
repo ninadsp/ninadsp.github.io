@@ -1,5 +1,5 @@
 ---
-title: 'Barcamp Bangalore 11 &#8211; Observational Astronomy 101'
+title: 'Barcamp Bangalore 11 - Observational Astronomy 101'
 author: Ninad
 layout: post
 permalink: /blog/2012/02/barcamp-bangalore-11-observational-astronomy-101/

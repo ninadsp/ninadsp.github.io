@@ -1,5 +1,5 @@
 ---
-title: 'Summer Of Code &#8211; Week 11'
+title: 'Summer Of Code - Week 11'
 author: Ninad
 layout: post
 permalink: /blog/2010/08/summer-of-code-week-11/

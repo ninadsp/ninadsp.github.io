@@ -1,5 +1,5 @@
 ---
-title: 'ACAD &#8211; bash tips'
+title: 'ACAD - bash tips'
 author: Ninad
 layout: post
 permalink: /blog/2008/09/acad-bash-tips/

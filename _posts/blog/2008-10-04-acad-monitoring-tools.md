@@ -1,5 +1,5 @@
 ---
-title: 'ACAD &#8211; Monitoring Tools'
+title: 'ACAD - Monitoring Tools'
 author: Ninad
 layout: post
 permalink: /blog/2008/10/acad-monitoring-tools/

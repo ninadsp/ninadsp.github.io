@@ -1,5 +1,5 @@
 ---
-title: 'BCB12 PosterMash Entry &#8211; Space Invaders'
+title: 'BCB12 PosterMash Entry - Space Invaders'
 author: Ninad
 layout: post
 permalink: /blog/2012/07/bcb12-postermash-entry-space-invaders/

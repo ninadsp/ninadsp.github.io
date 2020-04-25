@@ -1,5 +1,5 @@
 ---
-title: 'Twitter Tip &#8211; Favourites as a links stack'
+title: 'Twitter Tip - Favourites as a links stack'
 author: Ninad
 layout: post
 permalink: /blog/2011/09/twitter-tip-favourites-as-a-link-stack/
@@ -21,7 +21,6 @@ Here is how I handle this:
   * **Time to decide**: Was the link good?
   * **Yes**: Great. Head back to your favourites ('*g* + *f*') and scroll to the original tweet. Now, share some Twitter love and RT it! The keyboard shortcut this time round is '*t*'.
   * **No**: Bad luck! Head back to your favourites, scroll to the original tweet, and unfave it ('*f*' again). It's good karma to keep your favourites clean. You wouldn't want a prospective follower to be scared off if he checks your faves and finds strange links there.
-
   * Job done! :smile:
 
 This trick is also great when you're up and about, accessing Twitter over the phone, and have a pathetically slow GPRS connection. Opening pages takes way too long, and some pages may not be readable on the phone. So, convert your favourites into a personal Read It Later. :smile:

@@ -1,5 +1,5 @@
 ---
-title: 'Hacking Hangman &#8211; The plan'
+title: 'Hacking Hangman - The plan'
 author: Ninad
 layout: post
 permalink: /blog/2012/07/hacking-hangman-the-plan/

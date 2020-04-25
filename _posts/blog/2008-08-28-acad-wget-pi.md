@@ -1,5 +1,5 @@
 ---
-title: 'ACAD &#8211; wget PI'
+title: 'ACAD - wget PI'
 author: Ninad
 layout: post
 permalink: /blog/2008/08/acad-wget-pi/

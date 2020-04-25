@@ -1,5 +1,5 @@
 ---
-title: 'choqoK &#8211; A KDE Client for Twitter'
+title: 'choqoK - A KDE Client for Twitter'
 author: Ninad
 layout: post
 permalink: /blog/2009/10/choqok-a-kde-client-for-twitter/

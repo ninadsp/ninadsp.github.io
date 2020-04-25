@@ -28,7 +28,7 @@ With Software installation fests, gaming parlour and various presentations and t
 **Support Required**: The organizers need help in the organization of this OSScamp in the following ways:
 
   * Participation at the event
-  * promote the event by spreading the word about the event &#8211; tweet, blog  posts, and social networks &#8211; use the hash tag [#osscamp](http://search.twitter.com/search?q=%23osscamp "#OSSCamp on Twitter")
+  * promote the event by spreading the word about the event - tweet, blog  posts, and social networks - use the hash tag [#osscamp](http://search.twitter.com/search?q=%23osscamp "#OSSCamp on Twitter")
   * suggest/connect with Foss projects so that they can set up displays at the  FOSS Den (expo) and promote themselves
   * contribute Linux installation media and goodies for the event
 
@@ -38,21 +38,21 @@ You can also take up a session and deliver a talk on any open source technology 
 
 March 12:
 
-  * 08pm &#8211; 10pm: Social Sandbox: Open Source, Unconferences, India
-  * 10pm &#8211; 12am: Sessions and Talks (4 Slots Available)
-  * 12am &#8211; 02am: FOSS Hackathon
+  * 08pm - 10pm: Social Sandbox: Open Source, Unconferences, India
+  * 10pm - 12am: Sessions and Talks (4 Slots Available)
+  * 12am - 02am: FOSS Hackathon
 
 March 13:
 
   * Daytime: TEDx Pilani
-  * 04pm &#8211; 06pm: Install Fest
-  * 08pm &#8211; 10pm: Sessions & Talks (4 Slots Available)
-  * 10pm &#8211; 12am: Games Fest
-  * 12am &#8211; 02am: Social Sandbox: Using FOSS
+  * 04pm - 06pm: Install Fest
+  * 08pm - 10pm: Sessions & Talks (4 Slots Available)
+  * 10pm - 12am: Games Fest
+  * 12am - 02am: Social Sandbox: Using FOSS
 
 March 14:
 
-  * 11am &#8211; 01pm: FOSS Projects Demonstrations
+  * 11am - 01pm: FOSS Projects Demonstrations
 
 Besides this, a special FOSS Den will be open during the daytime for people to visit and learn more about FOSS. The FOSS Den will be an open exhibition hall for FOSS Projects. There will be video presentations on comparisons between open source and proprietary software and chart displays in the room. Volunteers will be there to present these to the visitors.
 

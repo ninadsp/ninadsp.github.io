@@ -62,13 +62,13 @@ A few tests were carried out, and it shows that even if the initial page load ti
   * **First week (May 24-30)**: Write deliverables 1 and 2.  Start creating a list of tasks that can be done for deliverable 3, in consultation with the community.
   * **Second & Third week (May 31- June 13)** : Write deliverable 3.
   * **Fourth week (June 14-20)**: Write deliverable 4.  Convert the Privileges page (*server_privileges.php*) to AJAX as the sample.
-  * **Fifth & Sixth week (June 21- July 4)** : Convert the SQL pages (*db_sql.php* and *tbl_sql.php*) to AJAX &#8211; the pages where user enters an SQL query and the output of the query is returned as a table.  Fix the paginate_table patch submitted on the Sourceforge patch tracker to work on all pages, including *db_sql* and *tbl_sql*.
+  * **Fifth & Sixth week (June 21- July 4)** : Convert the SQL pages (*db_sql.php* and *tbl_sql.php*) to AJAX - the pages where user enters an SQL query and the output of the query is returned as a table.  Fix the paginate_table patch submitted on the Sourceforge patch tracker to work on all pages, including *db_sql* and *tbl_sql*.
   * **Seventh week (July 5-11)** : Insert page (*tbl_change.php*).
   * **Eighth & Ninth week (July 12-25)** : Inline Editing of data returned from a table.  Will affect *libraries/display\_tbl\_lib.php* and other related files.
   * **Tenth week (July 26-August 1)**: Basic actions like Creating a Database, Table, Changing Passwords and other actions on the Operations page (*db_operations.php *and *tbl_operations.php*).
   * **Eleventh week (August 2-8)** : Test across different browsers and platforms to ensure that the changes work as expected on most platforms.
   * **Twelfth week (August 9-15)**: Suggested Pencils Down date is here!  Check the entire code for crappy and incomplete documentation/comments, improve it.
-  * **August 16 **: GSoC 'Pencils down'
+  * **August 16**: GSoC 'Pencils down'
 
 For staying in touch with the mentors, I hope to rely primarily on the mailing list as most of the development work for phpMyAdmin happens over there, and not the IRC channels.  As a result, timezone differences will not be a major obstacle and should not cause unnecessary delays in this schedule.
 
@@ -97,12 +97,12 @@ Was introduced to Open Source two and a half years ago by a friend who uses Ubun
 
 Created a [patch][9] to paginate results of a table query, my first ever code contribution to an Open Source project and phpMyAdmin.
 
- [1]: http://infomarc.info/ "Marc Delisle's home page"
- [2]: http://ninadpundalik.co.cc/images/without_ajax.png "phpMyAdmin without AJAX" (dead link)
- [3]: http://ninadpundalik.co.cc/images/with_ajax.png "phpMyAdmin with AJAX" (dead link)
- [4]: http://flickr.com/photos/ninadsp "My Flickr Photostream"
- [5]: http://www.helphub.in "HelpHub Homepage"
- [6]: https://bugs.launchpad.net/ubuntu/+source/insserv/+bug/321927 "Bug at Launchpad"
- [7]: https://lists.ubuntu.com/mailman/listinfo/ubuntu-in "Ubuntu India Mailing List page"
- [8]: http://pilani.osscamp.in/ "OSScamp Pilani page"
- [9]: https://sourceforge.net/tracker/?func=detail&aid=2981401&group_id=23067&atid=377410 "Paginate Table Patch at Sourceforge"
+* [1]: http://infomarc.info/ "Marc Delisle's home page"
+* [2]: http://ninadpundalik.co.cc/images/without_ajax.png "phpMyAdmin without AJAX" (dead link)
+* [3]: http://ninadpundalik.co.cc/images/with_ajax.png "phpMyAdmin with AJAX" (dead link)
+* [4]: http://flickr.com/photos/ninadsp "My Flickr Photostream"
+* [5]: http://www.helphub.in "HelpHub Homepage"
+* [6]: https://bugs.launchpad.net/ubuntu/+source/insserv/+bug/321927 "Bug at Launchpad"
+* [7]: https://lists.ubuntu.com/mailman/listinfo/ubuntu-in "Ubuntu India Mailing List page"
+* [8]: http://pilani.osscamp.in/ "OSScamp Pilani page"
+* [9]: https://sourceforge.net/tracker/?func=detail&aid=2981401&group_id=23067&atid=377410 "Paginate Table Patch at Sourceforge"

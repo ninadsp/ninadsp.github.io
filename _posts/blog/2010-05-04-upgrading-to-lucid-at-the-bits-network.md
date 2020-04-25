@@ -20,7 +20,7 @@ Canonical recently released the latest version of Ubuntu, **Ubuntu 10.04 Lucid L
 
 Here's a quick post on how to upgrade to the latest version of Ubuntu, while on the BITS Pilani Network.  The reason for the need of a separate post is the weird network policies implemented here, with an honest attempt to prevent wastage of the band width for illegal downloads.  Without further ado, let's get our hands dirty and finish this task.  ***Read the entire post till the end, and only then, proceed with the task of actually upgrading your system.***
 
-## <span style="color: #ff0000;">Warning: Not a task for the faint hearted.  Involves a fair use of the command line, and can lead to a highly unstable system if not completed properly.  Can lead to a completely fouled up upgrade.  Proceed at your own risk.</span>
+Warning: Not a task for the faint hearted.  Involves a fair use of the command line, and can lead to a highly unstable system if not completed properly.  Can lead to a completely fouled up upgrade.  Proceed at your own risk.
 
 The steps that we will follow have been outlined at [this][1] page on the Ubuntu Wiki.
 

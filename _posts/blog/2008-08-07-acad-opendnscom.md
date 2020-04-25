@@ -1,5 +1,5 @@
 ---
-title: 'ACAD &#8211; OpenDNS.com'
+title: 'ACAD - OpenDNS.com'
 author: Ninad
 layout: post
 permalink: /blog/2008/08/acad-opendnscom/

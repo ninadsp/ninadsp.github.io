@@ -1,5 +1,5 @@
 ---
-title: 'How to Tweet using your own PHP script &#8211; 1'
+title: 'How to Tweet using your own PHP script - 1'
 author: Ninad
 layout: post
 permalink: /blog/2009/08/how-to-tweet-using-your-own-php-script-1/

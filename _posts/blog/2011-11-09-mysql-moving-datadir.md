@@ -1,5 +1,5 @@
 ---
-title: 'MySQL &#8211; Moving datadir'
+title: 'MySQL - Moving datadir'
 author: Ninad
 layout: post
 permalink: /blog/2011/11/mysql-moving-datadir/

@@ -1,5 +1,5 @@
 ---
-title: 'ACAD &#8211;  How Hot is my Computer???'
+title: 'ACAD -  How Hot is my Computer???'
 author: Ninad
 layout: post
 permalink: /blog/2008/08/acad-how-hot-is-my-computer/
