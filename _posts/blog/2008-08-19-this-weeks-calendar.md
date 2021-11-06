@@ -1,5 +1,5 @@
 ---
-title: "This week\'s calendar"
+title: "This week's calendar"
 author: Ninad
 layout: post
 permalink: /blog/2008/08/this-weeks-calendar/
