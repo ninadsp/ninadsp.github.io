@@ -31,3 +31,5 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # Get pagination working on Github Pages
 gem "jekyll-paginate", "~> 1.1.0"
+
+gem "webrick"
