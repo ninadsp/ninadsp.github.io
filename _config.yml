@@ -18,6 +18,7 @@ description: Just another weblog
 url: "https://ninad.pundaliks.in" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ni_nad
 github_username:  ninadsp
+timezone: Asia/Kolkata
 
 # Build settings
 markdown: kramdown

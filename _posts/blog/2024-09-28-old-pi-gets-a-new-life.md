@@ -3,12 +3,8 @@ title: Old Pi Gets a New Life
 author: Ninad
 layout: post
 permalink: /blog/2024/09/old-pi-gets-a-new-life/
-categories:
-  - Blog
-tags:
-  - Tech
-  - Linux
-  - raspberrypi
+categories: [Blog]
+tags: [Tech, Linux, raspberrypi]
 ---
 
 I'd love to tell you the story of a project I've been pecking away at, for the past few days. It's a long, winding path, so I recommend brewing a cup of your favourite potion before you start reading the rest of the story. For the folks in a hurry, the TL;DR: is to just jump to the code snippets at the bottom!
