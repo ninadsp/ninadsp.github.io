@@ -2,7 +2,7 @@
 title: Old Pi Gets a New Life
 author: Ninad
 layout: post
-permalink: /blog/2024/09/old-pi-gets-a-new-life
+permalink: /blog/2024/09/old-pi-gets-a-new-life/
 categories:
   - Blog
 tags:
@@ -10,7 +10,9 @@ tags:
   - Linux
   - raspberrypi
 ---
+
 I'd love to tell you the story of a project I've been pecking away at, for the past few days. It's a long, winding path, so I recommend brewing a cup of your favourite potion before you start reading the rest of the story. For the folks in a hurry, the TL;DR: is to just jump to the code snippets at the bottom!
+
 ## Why even do this?
 I purchased a Raspberry Pi (Model 1 B) way back in 2013 to play with it. Over the years, I used it as a machine to host tiny projects, usually open source ones. Most of the time, it acted as a DNS ad-blocker on my network, and did a great job at it because it sports an ethernet port, consumes very little power, and works great if it is running a small set of applications. Some time in 2018-19, I was trying to run the [MagicMirror project](https://github.com/MichMich/MagicMirror/) and noticed that it took _minutes_ to just run an `npm install`. There are Many Reasons :tm: for why this was such a bad experience (slow processor, the crazy NodeJS ecosystem, a slow SD card, to name a few), but I decided to relegate the Pi to background duty, with DNS ad-blocking being it's sole purpose.
 
@@ -22,6 +24,7 @@ I couple of years ago, I moved to a new house, which had a bunch of cameras hook
 I purchased a [Waveshare 4" LCD/Touchscreen display](https://www.amazon.in/gp/product/B0BRDDQNWY/) that can connect to the Raspberry Pi, and hooked it up to the Raspberry Pi. I then installed a fresh copy of the Raspbian OS, and I got the Lite edition as I'm usually comfortable enough with Linux that I can install whatever I need. The Pi booted, and I went ahead to install a bunch of different applications. The speed of processing reminded me once again that the Pi is a 10+ year old board with a very limited compute capacity even for it's time (every time there's a kernel update, and dpkg needs to go in and rebuild a bunch of things in `/boot` for it, I feel like the thing has hung). But, I also realised that after the initial setup, I will not need to fiddle too much with it, and hence, decided to swallow the goat and just proceed. I ended up installing some quality of life packages, and some stuff absolutely necessary for the project. See below for the final list of packages!
 
 I initially started to follow the [camplayer](https://github.com/raspicamplayer/camplayer/) project, but realised that `omxplayer` is no longer supported on recent Debian/Raspbian versions. I backtracked, and then started looking at instructions on how to display video streams on Raspberry Pis. There's a bunch of blog posts and some Github Gists and repos that help with this. I barked up a few more trees, and eventually settled down on the simplest approach of allowing the OS user to log in at boot, start an X Server, and spin up VLC with the right video stream. It was relatively easy to get till this point, and I was encouraged by what I'd done so far. However, stuff always breaks when computers are involved. An old Raspberry Pi, a barebones X Server and Video streams are each individually capable of weird behaviours, and here I was, trying to work on the intersection of these 3 tricky things.
+
 ## The bumps along the path
 1. I spent quite a few hours to get LightDM to automatically log in to a display, but it would always get stuck on the log in screen (the process seems to be called a `greeter`). No matter what configurations I tried, and how many times I rebooted, it would never land up on the desktop. So, I abandoned this path.
 2. I used `raspi-config` (with the magic `sudo` word ofcourse), and followed [these](https://raspberrypi.stackexchange.com/a/76275) steps to automatically log in with the default user. This ensured that a `bash` shell process will always be started whenever the boot process of the Pi has completed.
@@ -46,6 +49,7 @@ Lastly, If I can't find any way to customise the content of the composite stream
 ## TL;DR:
 
 I have an Ansible playbook managing/configuring the Raspberry Pi. But, for the scope of portability (and the playbook having local IPs, user names, etc), I'm sharing the bits that matter. Feel free to copy these over, and use whatever tool you prefer (docker? nix? chef?) to manage the configurations.  The packages I installed atop a vanilla Raspbian Lite installation are:
+
 ```
 * neovim
 * tmux
@@ -56,14 +60,18 @@ I have an Ansible playbook managing/configuring the Raspberry Pi. But, for the s
 * vlc
 * xinit
 ```
+
 The `.bash_profile` file is:
+
 ```
 if [ -z "$DISPLAY" ] && [ $(tty) = "/dev/tty1" ]; then
 	sleep 30;
 	startx
 fi
 ```
+
 And, the `.xinitrc` file contains:
+
 ```
 #!/bin/bash
 xrandr --fb 480x800
@@ -77,7 +85,9 @@ exec cvlc --no-audio --fullscreen --no-osd --extraintf oldrc \
 	--logfile /path/to/vlc.log --logmode text \
 	--log-verbose 2 --loop /path/to/playlist.xspf
 ```
+
 Lastly, the control script, invoked by cron:
+
 ```
 #!/usr/bin/env bash
 
